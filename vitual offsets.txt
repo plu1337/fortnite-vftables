@@ -1,8 +1,7 @@
-GetPlayerViewPoint -> 0x7A0
-SetControlRotation -> 0x710
-GetCameraLocation -> 0x7B0
-GetCameraRotation -> 0x7A8
-Process Event -> 0x4C 
-GetViewPoint -> 0x2B8
-GetFOVAngle -> 0x768
-Post Render -> 0x6C
+GetPlayerViewPoint -> 0x7A8
+SetControlRotation -> 0x718
+GetCameraLocation -> 0x7B8
+GetCameraRotation -> 0x7B0
+ProcessEvent -> 0x4D
+GetViewPoint -> 0x2D8
+GetFOVAngle -> 0x770
