@@ -5,3 +5,4 @@ GetCameraRotation -> 0x7B0
 ProcessEvent -> 0x4D
 GetViewPoint -> 0x2D8
 GetFOVAngle -> 0x770
+LineOfSightTo -> 0x728
