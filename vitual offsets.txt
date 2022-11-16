@@ -3,8 +3,8 @@ SetControlRotation: 0x720
 GetCameraLocation: 0x7C8
 GetCameraRotation: 0x7C0
 ProcessEvent: 0x4C
-PostRender: 6D
-DrawTransition: 6E
+PostRender: 0x6D
+DrawTransition: 0x6E
 GetViewPoint: 0x2B8
 GetFOVAngle: 0x780
 LineOfSightTo: 0x730
